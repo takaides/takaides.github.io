@@ -1,0 +1,7 @@
+section {
+  background-image: url(../images/Hello-World.png);
+  background-size: cover;
+  background-position: top center;
+  width: 100%;
+  height: 100vh;
+}
